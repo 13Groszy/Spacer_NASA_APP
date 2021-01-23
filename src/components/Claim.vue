@@ -17,6 +17,10 @@ export default {
 };
 </script>
 <style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;500;600&display=swap");
+body {
+  font-family: "Oswald", sans-serif;
+}
 .claimWrapper {
   display: flex;
   flex-direction: column;
